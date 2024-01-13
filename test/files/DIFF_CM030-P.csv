@@ -1,0 +1,231 @@
+CHECK_ID,LEGACY_CUST_ID,PRODUCT_OFFER,SV_MRC,UF_MRC
+CM030-P,8155100181336029,Equipment Fee,19.95,0
+CM030-P,8155500050236152,Equipment Fee,19.95,0
+CM030-P,8396600080301320,Equipment Fee,19.95,0
+CM030-P,8396900012180150,Equipment Fee,19.95,0
+CM030-P,8771200440494991,Equipment Fee,19.95,0
+CM030-P,8771201150360281,Roll Up BI,399.95,0
+CM030-P,8771201150360281,Business Internet Gigabit Extra,0,399.95
+CM030-P,900007196,Ethernet Equipment Fee,174.75,139.8
+CM030-P,900007278,Router Equipment Fee - Medium,130,260
+CM030-P,900007315,Business TFN,20,0
+CM030-P,900007403,IPv4 Static Address Block /29,25,0
+CM030-P,900007769,Ethernet Equipment Fee,419.4,454.35
+CM030-P,900008128,IPv4 Static Address Block /29,25,0
+CM030-P,900008402,Ethernet Equipment Fee,34.95,0
+CM030-P,900008559,IPv4 Static Address Block /29,25,0
+CM030-P,900008968,Ethernet Equipment Fee,69.9,34.95
+CM030-P,900008992,Business TFN,10,0
+CM030-P,900009368,Ethernet Equipment Fee,34.95,0
+CM030-P,900009511,IPv4 Static Address Block /29,25,0
+CM030-P,900009969,Ethernet Equipment Fee,104.85,69.9
+CM030-P,900010324,Ethernet Equipment Fee,34.95,0
+CM030-P,900010385,IPv4 Static Address Block /30,40,20
+CM030-P,900012010,Metro Bandwidth - Priority,607.71,0
+CM030-P,900012555,Ethernet Equipment Fee,139.8,104.85
+CM030-P,900012636,IPv4 Static Address Block /29,25,0
+CM030-P,900013842,Ethernet Equipment Fee,69.9,34.95
+CM030-P,900014571,Ethernet Equipment Fee,34.95,0
+CM030-P,900014571,IPv4 Static Address Block /29,20,0
+CM030-P,900017595,Ethernet Equipment Fee,34.95,0
+CM030-P,900020196,Ethernet Equipment Fee,69.9,34.95
+CM030-P,900020267,Ethernet Equipment Fee,139.8,104.85
+CM030-P,900022237,Ethernet Equipment Fee,69.9,34.95
+CM030-P,900022551,IPv4 Static Address Block /29,50,25
+CM030-P,900022791,Ethernet Equipment Fee,69.9,34.95
+CM030-P,900024251,Ethernet Equipment Fee,139.8,104.85
+CM030-P,900029811,Ethernet Equipment Fee,69.9,0
+CM030-P,900685907,Ethernet Equipment Fee,139.8,104.85
+CM030-P,905901520,Ethernet Equipment Fee,69.9,34.95
+CM030-P,930000652,uCPE Equipment Fee - Medium,30,60
+CM030-P,930005057,Ethernet Equipment Fee,69.9,34.95
+CM030-P,930005095,Ethernet Equipment Fee,279.6,244.65
+CM030-P,930005306,Ethernet Equipment Fee,314.55,279.6
+CM030-P,930005596,Ethernet Equipment Fee,34.95,0
+CM030-P,930010771,IPv4 Static Address Block /29,25,0
+CM030-P,930010997,Ethernet Equipment Fee,34.95,0
+CM030-P,930011400,Ethernet Equipment Fee,69.9,34.95
+CM030-P,930011421,Ethernet Equipment Fee,454.35,419.4
+CM030-P,930011536,IPv4 Static Address Block /29,25,0
+CM030-P,930388178,Ethernet Equipment Fee,104.85,69.9
+CM030-P,930388228,Ethernet Equipment Fee,279.6,244.65
+CM030-P,930388246,Ethernet Equipment Fee,349.5,314.55
+CM030-P,930388335,Ethernet Equipment Fee,34.95,0
+CM030-P,930873744,IPv4 Static Address Block /29,25,0
+CM030-P,930873779,IPv4 Static Address Block /30,20,0
+CM030-P,930873836,Ethernet Equipment Fee,69.9,34.95
+CM030-P,930886254,IPv4 Static Address Block /30,20,0
+CM030-P,930890367,IPv4 Static Address Block /29,25,0
+CM030-P,930891603,IPv4 Static Address Block /29,25,0
+CM030-P,930891682,Ethernet Equipment Fee,69.9,34.95
+CM030-P,930896299,IPv4 Static Address Block /29,25,0
+CM030-P,930896636,IPv4 Static Address Block /29,75,0
+CM030-P,930896760,Ethernet Equipment Fee,104.85,69.9
+CM030-P,930897782,IPv4 Static Address Block /30,20,0
+CM030-P,930898268,uCPE Equipment Fee - Medium,30,60
+CM030-P,930898757,IPv4 Static Address Block /29,25,0
+CM030-P,930902992,IPv4 Static Address Block /30,60,40
+CM030-P,930903194,IPv4 Static Address Block /29,25,0
+CM030-P,930903394,IPv4 Static Address Block /29,25,0
+CM030-P,930905131,IPv4 Static Address Block /29,20,0
+CM030-P,930909616,IPv4 Static Address Block /30,20,0
+CM030-P,930909756,Ethernet Equipment Fee,104.85,69.9
+CM030-P,930910892,IPv4 Static Address Block /29,25,0
+CM030-P,930911008,IPv4 Static Address Block /29,75,0
+CM030-P,931087653,Ethernet Equipment Fee,139.8,104.85
+CM030-P,931093769,Ethernet Equipment Fee,34.95,0
+CM030-P,931093772,Ethernet Equipment Fee,104.85,69.9
+CM030-P,931093812,Managed Services - Managed SD-WAN,500,350
+CM030-P,931093812,Ethernet Equipment Fee,279.6,244.65
+CM030-P,931093812,uCPE Equipment Fee - Medium,180,150
+CM030-P,931093812,uCPE Equipment Fee - Large,400,200
+CM030-P,931093941,Ethernet Equipment Fee,34.95,0
+CM030-P,931093950,IPv4 Static Address Block /29,25,0
+CM030-P,931100226,IPv4 Static Address Block /29,25,0
+CM030-P,931106985,Ethernet Equipment Fee,69.9,34.95
+CM030-P,932686605,Ethernet Equipment Fee,34.95,0
+CM030-P,932693130,Ethernet Equipment Fee,34.95,0
+CM030-P,932705863,Ethernet Equipment Fee,34.95,0
+CM030-P,932762368,Ethernet Equipment Fee,34.95,0
+CM030-P,932762428,Ethernet Equipment Fee,174.75,104.85
+CM030-P,932768674,IPv4 Static Address Block /29,100,75
+CM030-P,932769988,Ethernet Equipment Fee,69.9,34.95
+CM030-P,932770045,Ethernet Equipment Fee,1502.85,1467.9
+CM030-P,932770165,Ethernet Equipment Fee,69.9,34.95
+CM030-P,932775853,Ethernet Equipment Fee,104.85,69.9
+CM030-P,932776113,Ethernet Equipment Fee,34.95,0
+CM030-P,932776488,Ethernet Equipment Fee,34.95,0
+CM030-P,932776536,Ethernet Equipment Fee,139.8,34.95
+CM030-P,932781092,IPv4 Static Address Block /29,50,0
+CM030-P,932781092,Ethernet Equipment Fee,104.85,69.9
+CM030-P,932781254,Router Equipment Fee - Medium,70,140
+CM030-P,932781254,Ethernet Equipment Fee,139.8,104.85
+CM030-P,932781544,IPv4 Static Address Block /29,25,0
+CM030-P,932781934,IPv4 Static Address Block /29,25,0
+CM030-P,932782427,Ethernet Equipment Fee,34.95,0
+CM030-P,932782491,Ethernet Equipment Fee,69.9,34.95
+CM030-P,932787628,IPv4 Static Address Block /29,25,0
+CM030-P,932787659,Ethernet Equipment Fee,104.85,69.9
+CM030-P,933676216,Ethernet Equipment Fee,34.95,0
+CM030-P,933682516,Ethernet Equipment Fee,104.85,69.9
+CM030-P,933688937,IPv4 Static Address Block /29,25,0
+CM030-P,933689019,Ethernet Equipment Fee,69.9,34.95
+CM030-P,933695117,Ethernet Equipment Fee,69.9,34.95
+CM030-P,933702054,Installation Fee,45,0
+CM030-P,933702251,Ethernet Equipment Fee,34.95,0
+CM030-P,933708025,IPv4 Static Address Block /29,25,0
+CM030-P,933708092,IPv4 Static Address Block /29,30,0
+CM030-P,933708632,Ethernet Equipment Fee,69.9,34.95
+CM030-P,933708769,IPv4 Static Address Block /29,25,0
+CM030-P,933720987,IPv4 Static Address Block /30,20,0
+CM030-P,933727350,Ethernet Equipment Fee,104.85,69.9
+CM030-P,933734066,IPv4 Static Address Block /29,25,0
+CM030-P,933734079,Ethernet Equipment Fee,34.95,0
+CM030-P,933746258,IPv4 Static Address Block /29,25,0
+CM030-P,933752120,Ethernet Equipment Fee,34.95,0
+CM030-P,933752233,Ethernet Equipment Fee,69.9,34.95
+CM030-P,933757737,IPv4 Static Address Block /30,25,0
+CM030-P,934487489,Ethernet Equipment Fee,34.95,0
+CM030-P,934487872,IPv4 Static Address Block /29,25,0
+CM030-P,934487973,IPv4 Static Address Block /29,25,0
+CM030-P,934500991,Ethernet Equipment Fee,34.95,0
+CM030-P,934501071,Ethernet Equipment Fee,34.95,0
+CM030-P,934526318,IPv4 Static Address Block /30,20,0
+CM030-P,934532786,Ethernet Equipment Fee,69.9,34.95
+CM030-P,934551680,Ethernet Equipment Fee,244.65,209.7
+CM030-P,934552209,Ethernet Equipment Fee,139.8,104.85
+CM030-P,934565135,Managed Services - Managed SD-WAN,45,0
+CM030-P,934565135,uCPE Equipment Fee - Medium,30,0
+CM030-P,934565135,SD-Router Service Fee,60,0
+CM030-P,934577686,Ethernet Equipment Fee,139.8,104.85
+CM030-P,934577838,Ethernet Equipment Fee,34.95,0
+CM030-P,934577864,Ethernet Equipment Fee,34.95,0
+CM030-P,934577998,Ethernet Equipment Fee,69.9,34.95
+CM030-P,934578050,IPv4 Static Address Block /29,50,25
+CM030-P,934583957,Ethernet Equipment Fee,69.9,34.95
+CM030-P,934584349,Ethernet Equipment Fee,34.95,0
+CM030-P,934584445,IPv4 Static Address Block /29,25,0
+CM030-P,934584476,Router Equipment Fee - Medium,70,140
+CM030-P,935421741,IPv4 Static Address Block /29,50,0
+CM030-P,935421741,Ethernet Equipment Fee,99.85,64.9
+CM030-P,935427775,IPv4 Static Address Block /29,25,0
+CM030-P,935427978,Ethernet Equipment Fee,104.85,69.9
+CM030-P,935428001,Ethernet Equipment Fee,279.6,244.65
+CM030-P,935434751,IPv4 Static Address Block /29,25,0
+CM030-P,935440756,IPv4 Static Address Block /30,20,0
+CM030-P,935440814,uCPE Equipment Fee - Medium,60,90
+CM030-P,935447589,Ethernet Equipment Fee,104.85,69.9
+CM030-P,935453993,IPv4 Static Address Block /29,20,0
+CM030-P,935472897,IPv4 Static Address Block /29,25,0
+CM030-P,935473502,uCPE Equipment Fee - Medium,30,0
+CM030-P,935473502,SD-Router Service Fee,30,0
+CM030-P,935479563,Business TFN,60,0
+CM030-P,935479893,Ethernet Equipment Fee,34.95,0
+CM030-P,935485957,Ethernet Equipment Fee,104.85,69.9
+CM030-P,935486165,Ethernet Equipment Fee,34.95,0
+CM030-P,935505084,Ethernet Equipment Fee,139.8,104.85
+CM030-P,939029742,Ethernet Equipment Fee,34.95,0
+CM030-P,939048956,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939068298,IPv4 Static Address Block /30,30,0
+CM030-P,939081388,Ethernet Equipment Fee,34.95,0
+CM030-P,939087718,IPv4 Static Address Block /29,20,0
+CM030-P,939093875,IPv4 Static Address Block /30,25,0
+CM030-P,939094094,Ethernet Equipment Fee,559.2,524.25
+CM030-P,939094138,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939094161,Ethernet Equipment Fee,34.95,0
+CM030-P,939094176,IPv4 Static Address Block /30,25,0
+CM030-P,939094413,Ethernet Equipment Fee,104.85,69.9
+CM030-P,939100798,Ethernet Equipment Fee,34.95,0
+CM030-P,939100912,IPv4 Static Address Block /29,25,0
+CM030-P,939106766,Ethernet Equipment Fee,139.8,0
+CM030-P,939107055,Ethernet Equipment Fee,34.95,0
+CM030-P,939107085,Ethernet Equipment Fee,34.95,0
+CM030-P,939107352,Ethernet Equipment Fee,34.95,0
+CM030-P,939210633,IPv4 Static Address Block /29,25,0
+CM030-P,939730987,IPv4 Static Address Block /29,50,25
+CM030-P,939731298,IPv4 Static Address Block /29,25,0
+CM030-P,939731403,Ethernet Equipment Fee,139.8,104.85
+CM030-P,939737322,Ethernet Equipment Fee,34.95,0
+CM030-P,939737700,Ethernet Equipment Fee,34.95,0
+CM030-P,939743444,IPv4 Static Address Block /29,50,25
+CM030-P,939749926,Ethernet Equipment Fee,104.85,69.9
+CM030-P,939750314,IPv4 Static Address Block /29,50,25
+CM030-P,939750850,Ethernet Equipment Fee,104.85,69.9
+CM030-P,939756572,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939756884,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939756957,IPv4 Static Address Block /30,20,0
+CM030-P,939757112,IPv4 Static Address Block /29,25,0
+CM030-P,939757184,IPv4 Static Address Block /29,25,0
+CM030-P,939762972,IPv4 Static Address Block /30,40,20
+CM030-P,939763769,Ethernet Equipment Fee,34.95,0
+CM030-P,939763855,Ethernet Equipment Fee,139.8,104.85
+CM030-P,939769138,Ethernet Equipment Fee,104.85,69.9
+CM030-P,939769223,IPv4 Static Address Block /29,25,0
+CM030-P,939769591,Ethernet Equipment Fee,279.6,244.65
+CM030-P,939769839,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939770027,Ethernet Equipment Fee,34.95,0
+CM030-P,939770192,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939770199,Ethernet Equipment Fee,34.95,0
+CM030-P,939770199,IPv4 Static Address Block /29,25,0
+CM030-P,939770250,Ethernet Equipment Fee,34.95,0
+CM030-P,939776537,Ethernet Equipment Fee,34.95,0
+CM030-P,939776595,Ethernet Equipment Fee,34.95,0
+CM030-P,939776769,Ethernet Equipment Fee,34.95,0
+CM030-P,939782220,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939782236,Ethernet Equipment Fee,69.9,34.95
+CM030-P,939782861,IPv4 Static Address Block /29,25,0
+CM030-P,939788600,Ethernet Equipment Fee,104.85,69.9
+CM030-P,939789112,IPv4 Static Address Block /29,25,0
+CM030-P,939789273,IPv4 Static Address Block /29,20,0
+CM030-P,939795221,Ethernet Equipment Fee,139.8,104.85
+CM030-P,939795671,Ethernet Equipment Fee,34.95,0
+CM030-P,939801409,IPv4 Static Address Block /29,45,0
+CM030-P,939801409,IPv4 Static Address Block /30,20,0
+CM030-P,939808219,Ethernet Equipment Fee,104.85,69.9
+CM030-P,939808305,IPv4 Static Address Block /29,25,0
+CM030-P,939808328,Ethernet Equipment Fee,34.95,0
+CM030-P,939820930,IPv4 Static Address Block /29,25,0
+CM030-P,939821248,IPv4 Static Address Block /29,25,0
+CM030-P,962336241,BVE Equipment Fee,9.95,19.9
+CM030-P,962336241,BVE Station,84.55,169.1
+CM030-P,963275690,BVE Equipment Fee,59.7,69.65
