@@ -1,5 +1,0 @@
-/*MRC Execution date: 2023-11-03 19:31:59.275932*/
-SingleView records with 0 as account #!
-Empty DataFrame
-Columns: [CHECK_ID, LEGACY_ACCOUNT_NO, PRODUCT_OFFER, SV/CSG MRC, UF_MRC, CSG(Y/N), MRC_DIFF, Std Address Mismatch, Duplicate Equipment Fee in SingleView, Incorrect_Service_Address, MULTIPLE SITE ID FOR SAME SITE ADDRESS IN CLIPS, Site Address Standardization issue, Missing services in UF_SUBSCRIBER, IPV4 P2P FALLOUT, MRC Outliers for extract review, Rounding Issue, COMBINED_ADDRESS, RCA_COMMENTS, RCA_COMMENT_WORD_COUNT, SV_ROOT_ACCOUNT_NO, CIRCUIT MISMATCH, ACCOUNT MISMATCH]
-Index: []
