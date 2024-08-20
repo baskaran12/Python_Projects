@@ -13,7 +13,7 @@ try:
 
     oracle_table_name = "SALES" # table name 
 
-    connection = cx_Oracle.connect('DA_USER/DA_Prod123@oridb-wc-stga.sys.comcast.net:1555/ORIONSTGA')  # oracle connection
+    connection = cx_Oracle.connect('USER/PWD@HOST/SERVICE_NAME')  # oracle connection
 
     cursor = connection.cursor()
 
