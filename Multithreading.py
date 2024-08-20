@@ -10,7 +10,7 @@ from threading import Thread
 
 #cx_Oracle.init_oracle_client(lib_dir= r"C:\Users\2076284\Downloads\instantclient-basic-windows.x64-21.7.0.0.0dbru\instantclient_21_7")
 
-pool=cx_Oracle.SessionPool("DA_USER","DA_Prod123","oridb-wc-stga.sys.comcast.net:1555/ORIONSTGA",min=10,max=10, increment=0,threaded=True, encoding="UTF-8")
+pool=cx_Oracle.SessionPool("USER","PWD","HOST:1555/SERVICE_NAME",min=10,max=10, increment=0,threaded=True, encoding="UTF-8")
 def do_query(part_num):
     with pool.acquire() as conn:
         cursor = conn.cursor()
