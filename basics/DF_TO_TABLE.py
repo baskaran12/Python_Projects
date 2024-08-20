@@ -9,11 +9,11 @@ import pandas as pd
 import cx_Oracle
 #cx_Oracle.init_oracle_client(lib_dir= r"C:\instantclient-basic-windows.x64-21.7.0.0.0dbru\instantclient_21_7")
 
-DATABASE =  'oridb-wc-stga.sys.comcast.net'
-PORT = 1555
-SID = 'ORIONSTGA'
-SCHEMA = 'DA_USER'
-PASSWORD = 'DA_Prod123'
+DATABASE =  
+PORT = 
+SID = ''
+SCHEMA = 
+PASSWORD = 
 
 connstr = f"{DATABASE}:{PORT}/{SID}"
 con = cx_Oracle.connect(SCHEMA, PASSWORD, connstr,encoding="UTF-8")
